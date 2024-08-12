@@ -11,7 +11,7 @@ We also analyse big datasets to reveal insights and inequalities in population 
 
 In partnership with the NHS and other university research teams, our work informs national policy and improves local health services; building ‘learning health systems’ that turn data into knowledge, and knowledge into better practice and a healthier population.
 
-[usp_GetQueryCodes](./docs/usp_GetQueryCodes.md).
+
 
 ### Small image
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
